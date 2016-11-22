@@ -1,0 +1,12 @@
+{
+  "name": "etdsolutions/reveal.js",
+  "description": "Shim repository for reveal.js",
+  "homepage": "http://lab.hakim.se/reveal-js",
+  "license": "MIT",
+  "author": [
+    {
+      "name": "Hakim El Hattab",
+      "email": "hakim.elhattab@gmail.com"
+    }
+  ]
+}
