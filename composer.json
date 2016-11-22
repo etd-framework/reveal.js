@@ -3,7 +3,7 @@
   "description": "Shim repository for reveal.js",
   "homepage": "http://lab.hakim.se/reveal-js",
   "license": "MIT",
-  "author": [
+  "authors": [
     {
       "name": "Hakim El Hattab",
       "email": "hakim.elhattab@gmail.com"
